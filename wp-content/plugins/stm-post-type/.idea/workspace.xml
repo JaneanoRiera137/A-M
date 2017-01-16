@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bc11c24-0ad8-41e9-a30f-ceaf40f56d93" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="stm-post-type" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="post_type.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/post_type.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="89" column="73" lean-forward="false" selection-start-line="89" selection-start-column="70" selection-end-line="89" selection-end-column="73" />
+              <folding>
+                <marker date="1481841400013" expanded="true" signature="4830:5239" ph="..." />
+                <marker date="1481841400013" expanded="true" signature="5277:6355" ph="..." />
+                <marker date="1481841400013" expanded="true" signature="5305:6338" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="5362:6033" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="5439:5684" ph="{&quot;title&quot;: &quot;( 'Select file', STM_POST_TYPE )&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="5576:5646" ph="{&quot;text&quot;: &quot;( 'Attach', STM_POST_TYPE )&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="5711:6014" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="6083:6327" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="7150:7935" ph="..." />
+                <marker date="1481841400013" expanded="true" signature="7181:7914" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="7250:7799" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="7292:7375" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="7853:7900" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="8525:9703" ph="..." />
+                <marker date="1481841400013" expanded="true" signature="8574:9664" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="8688:9456" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="8757:8897" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="9534:9632" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="10398:12209" ph="..." />
+                <marker date="1481841400013" expanded="true" signature="10447:12170" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="10567:11416" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="10643:10790" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="11500:11598" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="11690:12138" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="11762:11958" ph="{&quot;title&quot;: &quot;( 'Elegir Archivo', STM_POST_TYPE )&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="11850:11920" ph="{&quot;text&quot;: &quot;( 'Adjuntar', STM_POST_TYPE )&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="11985:12119" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="14442:19226" ph="..." />
+                <marker date="1481841400013" expanded="true" signature="14473:19205" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="14541:14944" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="14578:14884" ph="{&quot;id&quot;: &quot;insert-image&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="15005:15165" ph="{&quot;state&quot;: &quot;insert-image&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="15106:15155" ph="[...]" />
+                <marker date="1481841400013" expanded="true" signature="15311:15445" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="15420:15435" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="15487:18211" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="15786:18199" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="16259:16432" ph="{&quot;id&quot;: obj_attachment.id...}" />
+                <marker date="1481841400013" expanded="true" signature="16581:17018" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="16671:16844" ph="{&quot;align&quot;: &quot;align&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="16871:16998" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="17063:17159" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="17204:17300" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="17306:17441" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="18250:18962" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="18370:18568" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="18655:18950" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="18734:18936" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="19017:19051" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="19113:19192" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="21730:22155" ph="..." />
+                <marker date="1481841400013" expanded="true" signature="22193:23219" ph="..." />
+                <marker date="1481841400013" expanded="true" signature="22221:23202" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="22278:22906" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="22355:22551" ph="{&quot;title&quot;: &quot;( 'Select image', STM_POST_TYPE )&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="22444:22514" ph="{&quot;text&quot;: &quot;( 'Attach', STM_POST_TYPE )&quot;...}" />
+                <marker date="1481841400013" expanded="true" signature="22578:22887" ph="{...}" />
+                <marker date="1481841400013" expanded="true" signature="22956:23191" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rewrite.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rewrite.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+              <folding>
+                <marker date="1481842448932" expanded="true" signature="993:1134" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1104:1134" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1234:1568" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1256:1391" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1401:1558" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1590:1943" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1612:1745" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1755:1933" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1965:2304" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="1987:2121" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="2131:2294" ph="..." />
+                <marker date="1481842448932" expanded="true" signature="2559:2670" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stm-post-type.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stm-post-type.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="214" column="50" lean-forward="false" selection-start-line="214" selection-start-column="50" selection-end-line="214" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Dis</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rewrite.php" />
+        <option value="$PROJECT_DIR$/stm-post-type.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stm-post-type" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Respaldos 15-12-2016" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stm-post-type" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Respaldos 15-12-2016" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stm-post-type" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Respaldos 15-12-2016" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stm-post-type" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Respaldos 15-12-2016" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stm-post-type" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bc11c24-0ad8-41e9-a30f-ceaf40f56d93" name="Default" comment="" />
+      <created>1481842082764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1481842082764</updated>
+      <workItem from="1481842088455" duration="897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="897000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24338235" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>F:\Autos-Mags\Respaldos 15-12-2016</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rewrite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <marker date="1481842448932" expanded="true" signature="993:1134" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1104:1134" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1234:1568" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1256:1391" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1401:1558" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1590:1943" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1612:1745" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1755:1933" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1965:2304" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="1987:2121" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="2131:2294" ph="..." />
+            <marker date="1481842448932" expanded="true" signature="2559:2670" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post_type.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="89" column="73" lean-forward="false" selection-start-line="89" selection-start-column="70" selection-end-line="89" selection-end-column="73" />
+          <folding>
+            <marker date="1481841400013" expanded="true" signature="4830:5239" ph="..." />
+            <marker date="1481841400013" expanded="true" signature="5277:6355" ph="..." />
+            <marker date="1481841400013" expanded="true" signature="5305:6338" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="5362:6033" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="5439:5684" ph="{&quot;title&quot;: &quot;( 'Seleccionar archivo', STM_POST_TYPE )&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="5576:5646" ph="{&quot;text&quot;: &quot;( 'Adjuntar', STM_POST_TYPE )&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="5711:6014" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="6083:6327" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="7150:7935" ph="..." />
+            <marker date="1481841400013" expanded="true" signature="7181:7914" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="7250:7799" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="7292:7375" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="7853:7900" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="8525:9703" ph="..." />
+            <marker date="1481841400013" expanded="true" signature="8574:9664" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="8688:9456" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="8757:8897" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="9534:9632" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="10398:12209" ph="..." />
+            <marker date="1481841400013" expanded="true" signature="10447:12170" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="10567:11416" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="10643:10790" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="11500:11598" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="11690:12138" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="11762:11958" ph="{&quot;title&quot;: &quot;( 'Elegir Archivo', STM_POST_TYPE )&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="11850:11920" ph="{&quot;text&quot;: &quot;( 'Adjuntar', STM_POST_TYPE )&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="11985:12119" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="14442:19226" ph="..." />
+            <marker date="1481841400013" expanded="true" signature="14473:19205" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="14541:14944" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="14578:14884" ph="{&quot;id&quot;: &quot;insert-image&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="15005:15165" ph="{&quot;state&quot;: &quot;insert-image&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="15106:15155" ph="[...]" />
+            <marker date="1481841400013" expanded="true" signature="15311:15445" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="15420:15435" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="15487:18211" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="15786:18199" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="16259:16432" ph="{&quot;id&quot;: obj_attachment.id...}" />
+            <marker date="1481841400013" expanded="true" signature="16581:17018" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="16671:16844" ph="{&quot;align&quot;: &quot;align&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="16871:16998" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="17063:17159" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="17204:17300" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="17306:17441" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="18250:18962" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="18370:18568" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="18655:18950" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="18734:18936" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="19017:19051" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="19113:19192" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="21730:22155" ph="..." />
+            <marker date="1481841400013" expanded="true" signature="22193:23219" ph="..." />
+            <marker date="1481841400013" expanded="true" signature="22221:23202" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="22278:22906" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="22355:22551" ph="{&quot;title&quot;: &quot;( 'Elegir Imagen', STM_POST_TYPE )&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="22444:22514" ph="{&quot;text&quot;: &quot;( 'Adjuntar', STM_POST_TYPE )&quot;...}" />
+            <marker date="1481841400013" expanded="true" signature="22578:22887" ph="{...}" />
+            <marker date="1481841400013" expanded="true" signature="22956:23191" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stm-post-type.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="214" column="50" lean-forward="false" selection-start-line="214" selection-start-column="50" selection-end-line="214" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
